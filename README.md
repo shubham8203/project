@@ -1,6 +1,10 @@
-Calculator Using HTML, CSS and Javascript.
-Functions:
+# A Calculator Using HTML, CSS and Javascript.
+
+### Functions in Calculator:
  - Performs Addition, Subtraction, Multiplication and Divison.
- - Made Using HTML, CSS and basic Javascript.
+### Tech Used:
+- HTML5
+- CSS
+- Javascript
    
    
